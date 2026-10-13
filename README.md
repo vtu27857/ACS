@@ -10,9 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu27857/ACS/tree/master/0020-valid-parentheses) |
+| [0946-validate-stack-sequences](https://github.com/vtu27857/ACS/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu27857/ACS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu27857/ACS/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu27857/ACS/tree/master/0946-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu27857/ACS/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
