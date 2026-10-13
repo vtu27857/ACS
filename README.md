@@ -107,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu27857/ACS/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu27857/ACS/tree/master/0199-binary-tree-right-side-view) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu27857/ACS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu27857/ACS/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu27857/ACS/tree/master/0199-binary-tree-right-side-view) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu27857/ACS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -125,9 +127,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu27857/ACS/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu27857/ACS/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu27857/ACS/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu27857/ACS/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
